@@ -1,0 +1,11 @@
+Welcome to use OrMineSweeper!
+If you are interested in Orangesoft's program , you can try to visit our website:
+https://coderorangesoft.github.io/Orangesoft.github.io/
+If you want to download the newest version of this program , I think that you can visit website of this program:
+https://coderorangesoft.github.io/Orangesoft.github.io/pages/code
+
+欢迎使用OrMineSweeper！
+如果您对Orangesoft的计划感兴趣，可以尝试访问我们的网站：
+https://coderorangesoft.github.io/Orangesoft.github.io/
+如果您想下载此程序的最新版本，我想您可以访问此程序的网站：
+https://coderorangesoft.github.io/Orangesoft.github.io/pages/code
